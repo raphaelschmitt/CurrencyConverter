@@ -1,0 +1,55 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "br.com.currencyconverter"
+        minSdkVersion 23
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    // Butterknife requires Java 8.
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    //Design to use SnackBar
+    implementation 'com.android.support:design:28.0.0-alpha1'
+
+    //ButterKnife
+    implementation 'com.jakewharton:butterknife:10.1.0'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.1.0'
+
+    //EditText Hashtag CHIP
+    implementation 'com.google.android.material:material:1.1.0-alpha06'
+
+    //Flow Layout (HashTag)
+    implementation('com.xiaofeng.android:flowlayoutmanager:1.2.3.2') {
+        exclude group: 'com.android.support', module: 'support-v4'
+    }
+
+    //Circle Image View
+    implementation 'de.hdodenhof:circleimageview:3.0.0'
+
+    //Animações em Lottie
+    implementation 'com.airbnb.android:lottie:3.0.7'
+
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:animateLayoutChanges="true"
+    android:layout_marginBottom="12dp"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:elevation="5dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:id="@+id/ivLogo"
+            android:layout_width="58dp"
+            android:layout_height="58dp"
+            android:layout_gravity="center|left"
+            android:scaleType="fitCenter"
+            android:src="@drawable/logo_currency_converter"
+            android:visibility="visible"/>
+
+        <ImageView
+            android:id="@+id/ivLogoText"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/horizontal_text_logo"
+            android:visibility="visible"
+            android:layout_gravity="center"
+            android:padding="5dp"/>
+
+    </LinearLayout>
+
+</FrameLayout>

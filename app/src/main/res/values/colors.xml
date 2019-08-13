@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--#e23338 (Vermelho)-->
+    <!--#f58434 (Laranja)-->
+    <!--#f0f0f0 (Branco barra de cima)-->
+    <!--#fafafa (Branco barra App)-->
+
+    <color name="colorPrimary">#1F1D1D</color>
+    <color name="colorPrimaryDark">#162634</color>
+    <color name="colorAccent">#EFA53C</color>
+
+    <color name="background_white_search_view">#FFFFFF</color>
+    <color name="background_black_search_view">#2C2C2C</color>
+    <color name="cor_texto_bread_crumb">#3E424A</color>
+    <color name="cor_texto_destaques">#BABCC5</color>
+
+    <color name="background_black_bottom_bar">#2C2C2C</color>
+
+    <color name="background_app">#121212</color>
+
+    <color name="degrade_inicio_botao">#1E1E1E</color>
+    <color name="degrade_centro_botao">#121212</color>
+    <color name="degrade_final_botao">#161616</color>
+
+    <color name="iosBlue">#5b9bd5</color>
+
+    <color name="black">#000000</color>
+    <color name="blue_dark">#2f333f</color>
+    <color name="gray">#cccccc</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#0cdbdbdd</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#aaaaaa</color>
+    <color name="iron">#eeeeee</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteTransparent">#80ffffff</color>
+    <color name="backgrounddarkred">#9f2428</color>
+
+    <color name="vermelhoescuro">#832727</color>
+
+    <color name="azulclaro">#2ca1e1</color>
+    <color name="azulescuro">#3747be</color>
+    <color name="amarelo">#dae725</color>
+    <color name="laranja">#e68b23</color>
+    <color name="vermelhoclaro">#e12727</color>
+
+    <color name="colorLink">#1ea4f7</color>
+
+    <color name="vermelhoEP">#e23338</color>
+    <color name="laranjaEP">#f58434</color>
+    <color name="BrancoStatusBar">#f0f0f0</color>
+    <color name="BrancoTopBar">#fafafa</color>
+
+    <color name="textcolornew">#424242</color>
+
+    <color name="textcolornewhint">#7e7d7d</color>
+
+    <color name="vermelhoPastel">#df4e52</color>
+
+    <color name="strokeButtonEditeText">#979090</color>
+
+
+    <color name="today">#4b82ff</color>
+    <color name="greyed_out">#c7c7c7</color>
+
+    <color name="summer">#44eebd82</color>
+    <color name="fall">#44d8d27e</color>
+    <color name="winter">#44a1c1da</color>
+    <color name="spring">#448da64b</color>
+
+    <color name="transparente">#00FFFFFF</color>
+
+    <color name="favoritado">#FFFFC107</color>
+
+    <!--Hashtag Colors-->
+    <color name="hashtag_blue">#5D78DA</color>
+    <color name="hashtag_yellow">#E2D240</color>
+    <color name="hashtag_red">#E24040</color>
+    <color name="hashtag_green">#7EE240</color>
+    <color name="hashtag_pink">#E240DF</color>
+    <color name="hashtag_orange">#E27940</color>
+    <color name="hashtag_gray">#434344</color>
+    <color name="hashtag_black">#222222</color>
+    <!--Hashtag Colors-->
+
+
+    <!--CORES DO PROJETO-->
+
+    <!--ROTINAS - Pontos-chave-->
+    <color name="BLACK_BASE">#000000</color>
+    <color name="BLACK_DARK">#444444</color>
+    <color name="BLACK_HARD">#4C4C4C</color>
+    <color name="BLACK_SOFT">#999999</color>
+
+    <!--ROTINAS - O que é-->
+    <!--DROGAS - Marcas-->
+    <color name="BLUE_BASE">#4291FF</color>
+    <color name="BLUE_DARK">#214880</color>
+    <color name="BLUE_HARD">#6F6F6F</color>
+    <color name="BLUE_SOFT">#E7F4FF</color>
+
+
+    <!--ROTINAS - Quando Suspeitar-->
+    <color name="CYAN_BASE">#0D8484</color>
+    <color name="CYAN_DARK">#0D5754</color>
+    <color name="CYAN_HARD">#8ED1D5</color>
+    <color name="CYAN_SOFT">#E5F3F5</color>
+
+
+    <!--ROTINAS - Como Confirmar-->
+    <color name="BROWN_BASE">#955C37</color>
+    <color name="BROWN_DARK">#663F26</color>
+    <color name="BROWN_HARD">#D3B9A4</color>
+    <color name="BROWN_SOFT">#ECE3D9</color>
+
+
+    <!--ROTINAS - Tratamento 1-->
+    <!--DROGAS - Doses-->
+    <color name="GREEN_BASE">#55BE54</color>
+    <color name="GREEN_DARK">#347332</color>
+    <color name="GREEN_HARD">#AFE0AE</color>
+    <color name="GREEN_SOFT">#EAF7EC</color>
+
+
+    <!--ROTINAS - Tratamento 2-->
+    <!--DROGAS - Segurança-->
+    <color name="ORANGE_BASE">#EE6E00</color>
+    <color name="ORANGE_DARK">#BE6212</color>
+    <color name="ORANGE_HARD">#F8BC76</color>
+    <color name="ORANGE_SOFT">#FFF4E3</color>
+
+
+    <!--ROTINAS - Tratamento 3-->
+    <!--DROGAS - Efeitos Adversos-->
+    <color name="RED_BASE">#D53B30</color>
+    <color name="RED_DARK">#8F0E0E</color>
+    <color name="RED_HARD">#F0877F</color>
+    <color name="RED_SOFT">#FFEFEE</color>
+
+
+    <!--ROTINAS - Mais-->
+    <!--DROGAS - Princípio Ativo-->
+    <color name="INDIGO_BASE">#8E3FEF</color>
+    <color name="INDIGO_DARK">#6F3AB0</color>
+    <color name="INDIGO_HARD">#C9B2EA</color>
+    <color name="INDIGO_SOFT">#F1E8FC</color>
+
+    <!--LEMON-->
+    <color name="LEMON_BASE">#8DC73F</color>
+    <color name="LEMON_DARK">#638B2C</color>
+    <color name="LEMON_HARD">#BBDD8C</color>
+    <color name="LEMON_SOFT">#EDFED2</color>
+
+    <!--MÍDIA-->
+    <color name="MIDIA_BASE">#21C5FF</color>
+    <color name="MIDIA_DARK">#178AB3</color>
+    <color name="MIDIA_HARD">#A9D6E6</color>
+    <color name="MIDIA_SOFT">#E9F9FF</color>
+
+    <!--PRIMARY-->
+    <color name="PRIMARY_BASE">#8774FF</color>
+    <color name="PRIMARY_DARK">#5F51B3</color>
+    <color name="PRIMARY_HARD">#C5C0E6</color>
+    <color name="PRIMARY_SOFT">#F3F1FF</color>
+
+    <!--SECONDARY-->
+    <color name="SECONDARY_BASE">#FCDE17</color>
+    <color name="SECONDARY_DARK">#ECA511</color>
+    <color name="SECONDARY_HARD">#FFEB93</color>
+    <color name="SECONDARY_SOFT">#FEF8D1</color>
+
+    <!--SNOW-->
+    <color name="SNOW_BASE">#FFFFFF</color>
+    <color name="SNOW_DARK">#D9D9D9</color>
+    <color name="SNOW_HARD">#E6E6E6</color>
+    <color name="SNOW_SOFT">#F2F2F2</color>
+
+    <!--Escores-->
+    <color name="N1_BASE">#82BF37</color>
+    <color name="N1_HARD">#B1D47E</color>
+    <color name="N1_SOFT">#E7F2D8</color>
+
+    <color name="N1B_BASE">#37BF61</color>
+    <color name="N1B_HARD">#7DD698</color>
+    <color name="N1B_SOFT">#E1F5E7</color>
+
+    <color name="N2_BASE">#FFF000</color>
+    <color name="N2_HARD">#FFF479</color>
+    <color name="N2_SOFT">#FFFCD6</color>
+
+    <color name="N2B_BASE">#FFD800</color>
+    <color name="N2B_HARD">#FFE659</color>
+    <color name="N2B_SOFT">#FFF9D9</color>
+
+    <color name="N3_BASE">#F6881C</color>
+    <color name="N3_HARD">#FCB36A</color>
+    <color name="N3_SOFT">#FEE8D2</color>
+
+    <color name="N3B_BASE">#E66700</color>
+    <color name="N3B_HARD">#FCB36A</color>
+    <color name="N3B_SOFT">#FBE8D9</color>
+
+    <color name="N4_BASE">#EB1A21</color>
+    <color name="N4_HARD">#F3785B</color>
+    <color name="N4_SOFT">#FCD6CD</color>
+
+    <color name="N4B_BASE">#DE2C2C</color>
+    <color name="N4B_HARD">#EA7676</color>
+    <color name="N4B_SOFT">#FAE0E0</color>
+
+    <color name="N5_BASE">#E90081</color>
+    <color name="N5_HARD">#F07CAE</color>
+    <color name="N5_SOFT">#FBD7E7</color>
+
+    <color name="N5B_BASE">#CF00AC</color>
+    <color name="N5B_HARD">#E059C9</color>
+    <color name="N5B_SOFT">#F8D9F3</color>
+    <!--Escores-->
+
+    <!--DP-->
+    <color name="DP00">#121212</color>
+    <color name="DP01">#1E1E1E</color>
+    <color name="DP02">#232323</color>
+    <color name="DP03">#252525</color>
+    <color name="DP06">#2C2C2C</color>
+    <color name="DP12">#333333</color>
+    <color name="DP24">#383838</color>
+    <!--DP-->
+
+    <!--Cor Texto MeuBlackbook Ativo-->
+    <color name="tvFakeBottomBarInativo">#75777F</color>
+
+    <!--CORES DO PROJETO-->
+
+</resources>
